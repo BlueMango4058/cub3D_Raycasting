@@ -6,7 +6,7 @@
 
 
 ## Technical Specifications
-본 프로젝트는 macOS와 Linux(Ubuntu) 환경을 모두 지원하도록 설계되었습니다.
+본 프로젝트는 macOS와 Linux(Ubuntu) 환경에서 지원하도록 설계되었습니다.
 
 * **Language**: C
 * **Graphics Library**: miniLibX (X11 & OpenGL)
