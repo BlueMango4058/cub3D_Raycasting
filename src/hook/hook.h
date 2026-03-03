@@ -6,7 +6,7 @@
 /*   By: dsagong <dsagong@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/12/24 16:59:36 by dsagong           #+#    #+#             */
-/*   Updated: 2026/01/19 16:43:24 by dsagong          ###   ########.fr       */
+/*   Updated: 2026/03/03 14:25:00 by dsagong          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,7 @@
 # define KEY_S			115
 # define PLAYER_RADIUS	0.06
 # define MOVE_SPEED		0.05
-# define ROTATE_SPEED	0.05
+# define ROTATE_SPEED	0.035
 
 //event.c
 void	hook_events(t_ctx *ctx);
